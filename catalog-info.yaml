@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "kjhjkhkjh"
+  description: "hkjhjkh"
+  annotations:
+    github.com/project-slug: blamdemo/gdlfgknew-repo
+    backstage.io/techdocs-ref: url:https://github.com/blamdemo/gdlfgknew-repo
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "uiui"
